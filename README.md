@@ -1,6 +1,6 @@
 # Stylies - An eCommerce Website
 
-[![YouTube Video]](https://www.youtube.com/@Quickclips_79)
+[![YouTube Video views]](https://www.youtube.com/@Quickclips_79)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
