@@ -19,13 +19,13 @@ Before you begin, ensure you have met the following requirements:
 
 To install **=Stylies**, follow these steps:
 
-Linux and macOS:
+Linux:
 
 ```bash
 sudo git clone https://github.com/MuferrehFatima/e-commerce-shopping-website.git
 ```
 
-Windows:
+Windows and macOS:
 
 ```bash
 git clone https://github.com/MuferrehFatima/e-commerce-shopping-website.git
