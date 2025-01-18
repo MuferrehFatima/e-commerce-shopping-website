@@ -22,13 +22,13 @@ To install **=Stylies**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/MuferrehFatima/e-commerce-shopping-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/MuferrehFatima/e-commerce-shopping-website.git
 ```
 
 ## Contact
